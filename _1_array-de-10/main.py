@@ -1,6 +1,8 @@
+# Crear array
 array = []
 
-for i in range(1, 20, 2):
+# Generar 10 numeros
+for i in range(0, 10, 1):
     array.append(i)
 
 print(array)
